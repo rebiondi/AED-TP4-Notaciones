@@ -7,6 +7,6 @@ Se asume que el usuario va a ingresar respuestas válidas y en minúscula.
 La imagen está dividida en partes para que se pueden ver bien, debido a temas de resolucion.  
 *  
 
- ![Diagrama1]( http://oi59.tinypic.com/2litrvq.jpg "Diagrama1") 
+![Diagrama1]( http://oi59.tinypic.com/2litrvq.jpg "Diagrama1") 
 
 ![Diagrama2]( http://oi58.tinypic.com/f29f2s.jpg "Diagrama2")
