@@ -1,6 +1,6 @@
 _TP 04 - Diagrama del algoritmo del juego del TP 03 - Juego  
 Biondi, Rolando Ezequiel - K1091  
-07/05/215_  
+07/05/2015_  
   
 *Este diagrama es de una versión somplificada del juego, con la misma cantidad de opciones, preguntas y respuestas, pero se tienen en cuenta precondiciones.  
 Se asume que el usuario va a ingresar respuestas válidas y en minúscula.  
