@@ -5,4 +5,4 @@ Biondi, Rolando Ezequiel - K1091
 *Este diagrama es de una versión somplificada del juego, con la misma cantidad de opciones, preguntas y respuestas, pero se tienen en cuenta precondiciones.  
 Se asume que el usuario va a ingresar respuestas válidas y en minúscula.*  
 
-![Diagrama](http://oi59.tinypic.com/1fzqms.jpg "Diagrama")
+![Diagrama](http://i172.photobucket.com/albums/w31/Rolando_Ezequiel_Biondi/Diagrama_zpsi8saqbbv.png?t=1430885999 "Diagrama")
