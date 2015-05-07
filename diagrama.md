@@ -3,6 +3,10 @@ Biondi, Rolando Ezequiel - K1091
 06/05/215_  
   
 *Este diagrama es de una versión somplificada del juego, con la misma cantidad de opciones, preguntas y respuestas, pero se tienen en cuenta precondiciones.  
-Se asume que el usuario va a ingresar respuestas válidas y en minúscula.*  
+Se asume que el usuario va a ingresar respuestas válidas y en minúscula.  
+La imagen está dividida en partes para que se pueden ver bien, debido a temas de resolucion.  
+*  
 
-![Diagrama](http://i172.photobucket.com/albums/w31/Rolando_Ezequiel_Biondi/Diagrama_zpsi8saqbbv.png?t=1430885999 "Diagrama")
+ ![Diagrama1]( http://oi59.tinypic.com/2litrvq.jpg "Diagrama1") 
+
+![Diagrama2]( http://oi58.tinypic.com/f29f2s.jpg "Diagrama2")
