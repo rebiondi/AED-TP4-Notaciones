@@ -5,4 +5,4 @@ Biondi, Rolando Ezequiel - K1091
 *Este diagrama es de una versión somplificada del juego, con la misma cantidad de opciones, preguntas y respuestas, pero se tienen en cuenta precondiciones.  
 Se asume que el usuario va a ingresar respuestas válidas y en minúscula.*  
 
-![Diagrama]( http://www.eljurista.net/uploadsfotos/pequena-casa-con-jardin_417887.jpg "Diagrama")
+![Diagrama](http://oi59.tinypic.com/1fzqms.jpg "Diagrama")
